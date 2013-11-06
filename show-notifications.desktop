@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Show Notifications
+GenericName=Show Notifications
+Comment=Show all notifications
+Categories=Utility
+Exec=show-notifications
+StartupNotify=false
+Icon=show-notifications
+Terminal=false
+Type=Application
+NoDisplay=true
+X-Ubuntu-Gettext-Domain=FIXME

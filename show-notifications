@@ -1,0 +1,2 @@
+#!/bin/sh
+xte 'keydown Super_L' 'key n' 'keyup Super_L'
